@@ -9,8 +9,6 @@ Built with PyQt5, pypdf, and the kind of dark-blue colour palette that whispers 
 
 - Pick up to six PDFs
 
-- Watch them fuse together like drunken Transformers
-
 - **Give the resulting monstrosity a browser tab name so Chrome stops calling it final_final_rev3_REAL.pdf**
 
 - Click MERGE
