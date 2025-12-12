@@ -67,7 +67,7 @@ Unlike your Downloads folder.**
 
 ## How to Run This Thing
 
-Theres now an exe!! go nuts!
+There's now an exe!! go nuts!
 
 ## How to Build This Thing if You're OG
 
