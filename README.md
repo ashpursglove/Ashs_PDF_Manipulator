@@ -67,6 +67,10 @@ Unlike your Downloads folder.**
 
 ## How to Run This Thing
 
+Theres now an exe!! go nuts!
+
+## How to Build This Thing if You're OG
+
 From the project folder:
 
 python main.py
@@ -105,7 +109,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 - A feature that screams when someone uploads a Word document saved **_as_** a PDF
 
 - *(Round round)
-- Legit i will make this an executable when I have the willpower
+- ~~Legit i will make this an executable when I have the willpower~~ **DONE**
 
 ## License
 
