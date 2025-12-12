@@ -100,6 +100,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 - A feature that screams when someone uploads a Word document saved **_as_** a PDF
 
 - *(Round round)
+- Legit i will make this an executable when I have the willpower
 
 ## License
 
