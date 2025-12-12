@@ -93,7 +93,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 ## Future Features (maybe)
 
 
-- Rotate pages. Like a like a record baby (right round *)
+- Rotate pages. Right round....Like a like a record baby (right round *)
 
 - Auto-rename PDFs based on pure spite
 
