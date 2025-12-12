@@ -99,7 +99,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
 - A button that simply says “F**K THIS PDF” and outputs a JPEG Goatse instead
 
-- A feature that screams when someone uploads a Word document saved as a PDF
+- A feature that screams when someone uploads a Word document saved _as_ a PDF
 
 - *(Round round)
 
