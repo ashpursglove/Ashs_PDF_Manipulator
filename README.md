@@ -50,13 +50,13 @@ pip install PyQt5 pypdf
 
 ## Folder Structure (in case you actually care)
 Ashs_PDF_Manipulator/
-│
-├── main.py
-├── modules/
-│   ├── gui.py
-│   ├── pdf_utils.py
-│   └── theme.py
-└── README.md
+│  
+├── main.py  
+├── modules/  
+│   ├── gui.py  
+│   ├── pdf_utils.py  
+│   └── theme.py  
+└── README.md  
 
 
 It’s organised.
