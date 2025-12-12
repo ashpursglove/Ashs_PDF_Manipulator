@@ -104,7 +104,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
 ## License
 
-**Use it, abuse it, redistribute it, tattoo it on your cat — whatever.
+**Use it, abuse it, redistribute it, tattoo it on your face — whatever.
 If it breaks, you get to keep both halves.**
 
 ### PS. Fuck Adobe
