@@ -2,6 +2,9 @@
 
 ## Because sometimes you just need to make PDFs your bitch without paying Adobe £29.99 a month for the privilege.
 
+<img width="901" height="658" alt="image" src="https://github.com/user-attachments/assets/a082c37e-a726-47eb-a3db-b80fb178af73" />
+
+
 Built with PyQt5, pypdf, and the kind of dark-blue colour palette that whispers “Yeah.......yeah I'm OG.”
 
 ## What This Spicy Little Program Does
