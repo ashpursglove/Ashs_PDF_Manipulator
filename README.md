@@ -1,8 +1,6 @@
 # Ashs PDF Manipulator
 
-## Because sometimes you just want to bully a PDF into submission.
-
-### This Scrappy little fellow lets you make PDFs your bitch without paying Adobe £29.99 a month for the privilege of… clicking a button.
+## Because sometimes you just need to make PDFs your bitch without paying Adobe £29.99 a month for the privilege.
 
 Built with PyQt5, pypdf, and the kind of dark-blue colour palette that whispers “Yeah.......yeah I'm OG.”
 
@@ -97,7 +95,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
 - Auto-rename PDFs based on pure spite
 
-- A button that simply says “F**K THIS PDF” and outputs a JPEG Goatse instead
+- A button that simply says “FUCK THIS PDF” and outputs a JPEG Goatse instead
 
 - A feature that screams when someone uploads a Word document saved **_as_** a PDF
 
@@ -107,4 +105,6 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
 **Use it, abuse it, redistribute it, tattoo it on your cat — whatever.
 If it breaks, you get to keep both halves.**
+
+### PS. Fuck Adobe
 
