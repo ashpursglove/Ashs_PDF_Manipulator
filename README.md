@@ -12,7 +12,7 @@ Built with PyQt5, pypdf, and the kind of dark-blue colour palette that whispers 
 
 <img width="901" height="658" alt="image" src="https://github.com/user-attachments/assets/a082c37e-a726-47eb-a3db-b80fb178af73" />
 
-- Pick up to six PDFs
+- Pick up to six PDFs (combine over multiple runs for infinite PDF Addition!)
 
 - **Give the resulting monstrosity a browser tab name so Chrome stops calling it final_final_rev3_REAL.pdf**
 
