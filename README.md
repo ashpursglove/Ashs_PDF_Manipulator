@@ -59,10 +59,10 @@ Ashs_PDF_Manipulator/
 └── README.md  
 
 
-It’s organised.
-Unlike your Downloads folder.
+**It’s organised.
+Unlike your Downloads folder.**
 
-How to Run This Thing
+## How to Run This Thing
 
 From the project folder:
 
@@ -72,42 +72,39 @@ python main.py
 A window will appear.
 If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
-Highlights (aka “Why this app slaps”)
+## Highlights (aka “Why this app slaps”)
 
-✔ Merge 6 PDFs like you’re assembling IKEA documents
+- Custom browser tab titles, because vibes matter
 
-✔ Slice PDFs cleanly like a Gordon Ramsay tantrum
+- No subscriptions, no DRM, no Adobe snitching on you
 
-✔ Custom browser tab titles, because vibes matter
+- My signature glowing dark theme (because light colour schemes make me envy the blind) 
 
-✔ No subscriptions, no DRM, no Adobe snitching on you
+- Works locally, offline, and without phoning home to Adobe
 
-✔ Your signature glowing dark theme (cyberpunk but also professional chaos)
+## Why This Exists
 
-✔ Works locally, offline, and without phoning home to Satan
+- Because Adobe thinks clicking one button should cost as much as a gym membership.
 
-Why This Exists
+- Because you deal with PDFs daily and deserve a tool that doesn’t scream at you.
 
-Because Adobe thinks clicking one button should cost as much as a gym membership.
+- Because you could build this yourself… but why bother its here!
 
-Because you deal with PDFs daily and deserve a tool that doesn’t scream at you.
+## Future Features (maybe)
 
-Because you could build this yourself… but why bother when you can bully an AI into doing it for you?
 
-Future Features (maybe)
+- Rotate pages. Like a like a record baby (right round *)
 
-Extract specific pages
+- Auto-rename PDFs based on pure spite
 
-Rotate pages like a possessed ceiling fan
+- A button that simply says “F**K THIS PDF” and outputs a JPEG Goatse instead
 
-Auto-rename PDFs based on pure spite
+- A feature that screams when someone uploads a Word document saved as a PDF
 
-A button that simply says “F**K THIS PDF” and outputs a JPEG instead
+- *(Round round)
 
-A feature that screams when someone uploads a Word document saved as a PDF
+## License
 
-License
-
-Use it, abuse it, redistribute it, tattoo it on your cat — whatever.
-If it breaks, you get to keep both halves.
+**Use it, abuse it, redistribute it, tattoo it on your cat — whatever.
+If it breaks, you get to keep both halves.**
 
