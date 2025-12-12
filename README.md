@@ -88,7 +88,7 @@ If it doesn’t, sacrifice a USB cable to the computing gods and try again.
 
 - Because you deal with PDFs daily and deserve a tool that doesn’t scream at you.
 
-- Because you could build this yourself… but why bother its here!
+- Because you could build this yourself… but why bother, it's here!
 
 ## Future Features (maybe)
 
