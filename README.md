@@ -58,12 +58,12 @@ Ashs_PDF_Manipulator/
 │   ├── gui.py  
 │   ├── pdf_utils.py  
 │   └── theme.py  
-├── requirements.txt
-├── pepePDFPNG.png (PNG to build the .ico out of)
-├── pepeico.ico (actual .ico for the build)
-├── build_cmd.txt (build command for pyinstaller)
-├── requirements.txt
-└── README.md 
+├── requirements.txt  
+├── pepePDFPNG.png (PNG to build the .ico out of)  
+├── pepeico.ico (actual .ico for the build)  
+├── build_cmd.txt (build command for pyinstaller)  
+├── requirements.txt  
+└── README.md  
 
 
 
