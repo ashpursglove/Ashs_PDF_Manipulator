@@ -74,7 +74,7 @@ Unlike your Downloads folder.**
 
 There's now an exe release!! Download and go nuts!
 
-## How to Build This Thing if You're OG
+## How to Run This Thing From Source if You're OG
 
 From the project folder:
 
