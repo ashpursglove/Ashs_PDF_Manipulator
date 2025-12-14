@@ -44,8 +44,7 @@ Built with PyQt5, pypdf, and the kind of dark-blue colour palette that whispers 
 
 **Install these or perish:**
 
-pip install PyQt5 pypdf
-
+pip install -r requirements.txt
 
 ### That’s it.
 #### No arcane rituals, no Java, no 17GB of Adobe updates.
@@ -65,9 +64,9 @@ Ashs_PDF_Manipulator/
 **It’s organised.
 Unlike your Downloads folder.**
 
-## How to Run This Thing
+## How to Just Run This Thing
 
-There's now an exe!! go nuts!
+There's now an exe release!! Download and go nuts!
 
 ## How to Build This Thing if You're OG
 
